@@ -6,7 +6,7 @@ h2{
     color: orangered;
 }
 p{
-    text-decoration: solid;
+    font-weight: bold;
 }
 .text-center{
     text-align: center;
